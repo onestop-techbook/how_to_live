@@ -1,16 +1,16 @@
 {
-  "bookname": "Onestop-app-dev",
-  "booktitle": "Onestopアプリ開発 α版",
+  "bookname": "Onestop-Howtolive",
+  "booktitle": "Onestop生き方",
   "aut": [],
   "language": "ja",
   "toc": true,
-  "rights": "(C) 2019　親方Project",
+  "rights": "(C) 2020　親方Project",
   "colophon": true,
-  "history": [["2019-12-14 技術書同人誌博覧会2（技書博2）"]],
+  "history": [["2020-2-29 技術書典8"]],
   "prt": "K-9（ケーナイン）",
   "pbl": "親方Project",
   "edt": "親方Project",
-  "date": "2019-12-14",
+  "date": "2020-02-29",
   "secnolevel": 3,
   "titlepage": true,
   "review_version": 3.0,
@@ -25,31 +25,10 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-      "chap-contents.md",
-      "chap-application.md",
-      "chap-basic-file.md",
-      "chap-basic-naming.md",
-      "chap-basic-git.md",
-      "chap-development-environment.md",
-      "chap-handcopy.md",
-      "chap-makesmallappforme.md",
-      "chap-technique.md",
-      "chap-ui-design.md",
-      "chap-coding.md",
-      "chap-testing.md",
-      "chap-tdd-what-is-happy.md",
-      "chap-deploy.md",
-      "chap-requirements.md",
-      "chap-team-development.md",
-      "chap-software-design.md",
-      "chap-agile.md",
-      "chap-security.md",
+     
       "placeholder.md",
 
-      "csprograming.re",
-      "chap-simulationapp.re",
-      "chap-capistrano.md",
-      "endohizumi.md"
+     
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
