@@ -1,0 +1,56 @@
+{
+  "bookname": "Onestop-app-dev",
+  "booktitle": "Onestopアプリ開発 α版",
+  "aut": [],
+  "language": "ja",
+  "toc": true,
+  "rights": "(C) 2019　親方Project",
+  "colophon": true,
+  "history": [["2019-12-14 技術書同人誌博覧会2（技書博2）"]],
+  "prt": "K-9（ケーナイン）",
+  "pbl": "親方Project",
+  "edt": "親方Project",
+  "date": "2019-12-14",
+  "secnolevel": 3,
+  "titlepage": true,
+  "review_version": 3.0,
+  "texstyle": ["reviewmacro"],
+  "texdocumentclass": [
+    "review-jsbook","media=ebook,paper=b5,serial_pagination=true,hiddenfolio=nikko-pc,openany,fontsize=10pt,baselineskip=15.4pt,line_length=44zw,number_of_lines=40,head_space=18mm,headsep=3mm,headheight=5mm,footskip=10mm"  ],
+  "sty_templates": {
+    "url": "https://github.com/TechBooster/ReVIEW-Template/archive/2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa.zip",
+    "dir": "ReVIEW-Template-2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa/articles/sty/"
+  },
+  "templates": ["images"],
+  "catalog": {
+    "PREDEF": ["preface.re"],
+    "CHAPS": [
+      "chap-contents.md",
+      "chap-application.md",
+      "chap-basic-file.md",
+      "chap-basic-naming.md",
+      "chap-basic-git.md",
+      "chap-development-environment.md",
+      "chap-handcopy.md",
+      "chap-makesmallappforme.md",
+      "chap-technique.md",
+      "chap-ui-design.md",
+      "chap-coding.md",
+      "chap-testing.md",
+      "chap-tdd-what-is-happy.md",
+      "chap-deploy.md",
+      "chap-requirements.md",
+      "chap-team-development.md",
+      "chap-software-design.md",
+      "chap-agile.md",
+      "chap-security.md",
+      "placeholder.md",
+
+      "csprograming.re",
+      "chap-simulationapp.re",
+      "chap-capistrano.md",
+      "endohizumi.md"
+    ],
+    "POSTDEF": ["contributors.re", "postscript.re"]
+  }
+}
