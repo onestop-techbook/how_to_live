@@ -26,6 +26,7 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
      
+      "chap-money.md",
       "placeholder.md"
 
      
