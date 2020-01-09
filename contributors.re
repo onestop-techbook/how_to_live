@@ -16,6 +16,7 @@
 #@# Fhe3QTCf_400x400.jpg    オーニシ
 #@# hoshimad_400x400.jpg    ほしまど
 #@# youchan_400x400.jpg     youchan
+#@# fan_400x400.png     ふぁん
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -248,6 +249,21 @@ Node.jsの手軽さが好きな、日曜プログラマー。「こんなツー�
 初めての技術同人誌を書かせていただきました。
 2019年7月7日からQiitaを毎日投稿中！(2019年12月1日現在)
 Webエンジニアを目指して奮闘中！楽しくて仕方がないことをお仕事にしたい！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/fan_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ふぁん @fan_tech_
+                \end{minipage}
+    \hspace{1ex} 
+//}
+プログラミングを初めて1か月の初心者がまさかの技術同人誌デビューをするとは思いませんでした。
+世の中何があるかわかりませんね…！修行して何かのエンジニアになってみたいなーと思ってます！がんばる。！
 
 == 表紙イラスト・デザイン　
 
