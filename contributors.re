@@ -258,7 +258,7 @@ Webエンジニアを目指して奮闘中！楽しくて仕方がないこと�
         \includegraphics[width=.75\linewidth]{images/contributors/fan_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ふぁん @fan_tech_
+        ふぁん @fan\_tech\_ https://twitter.com/fan\_tech\_
                 \end{minipage}
     \hspace{1ex} 
 //}
