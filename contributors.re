@@ -265,6 +265,21 @@ Webエンジニアを目指して奮闘中！楽しくて仕方がないこと�
 プログラミングを初めて1か月の初心者がまさかの技術同人誌デビューをするとは思いませんでした。
 世の中何があるかわかりませんね…！修行して何かのエンジニアになってみたいなーと思ってます！がんばる！
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ebichiki_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        えびちき https://twitter.com/ebichiki\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+IT企業で働くママエンジニアです。女性の30代は半分が厄年といわれていますが、私の30代もずっと厄年でした。
+ようやくグランドフィナーレを迎えるので、これからは楽しく本を書いて、打ち上げで美味しいものを食べるぞ！　
+
 == 表紙イラスト・デザイン　
 
 
