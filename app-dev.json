@@ -25,7 +25,7 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-     
+
       "chap-money.md",
       "chap-timeismoney.md",
       "chap-selectcompany.md",
@@ -34,9 +34,10 @@
       "chap-pleaseNoticeSOS.md",
       "chap-disabilityPension.md",
       "chap-admission.md",
+      "chap-mind.md",
       "placeholder.md"
 
-     
+
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
