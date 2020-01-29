@@ -91,5 +91,6 @@
 
 これ、意外とご案内入らないことが多いのでそういう制度があるんだなってことを知っておくと良いと思います。
 
-細かいことは、
-厚生労働省：自立支援医療（https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/jiritsu/index.html）を見てみるとよいかもしれません。
+細かいことは、厚生労働省：自立支援医療についてのページ[^jiritsu]を見てみるとよいかもしれません。
+
+[^jiritsu]: 厚生労働省：自立支援医療　https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/jiritsu/index.html
