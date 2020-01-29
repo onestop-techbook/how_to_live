@@ -36,8 +36,8 @@
       "chap-admission.md",
       "chap-mind.md",
       "chap-distanceLearningUniversity.md",
+      "chap-giveup.md",
       "placeholder.md"
-
 
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
