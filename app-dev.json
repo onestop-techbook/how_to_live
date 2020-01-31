@@ -26,6 +26,7 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
 
+      "chp-intro.md",
       "chap-money.md",
       "chap-timeismoney.md",
       "chap-selectcompany.md",
@@ -38,6 +39,7 @@
       "chap-distanceLearningUniversity.md",
       "chap-giveup.md",
       "chap-willcanmust.md",
+      "chap-home.md",
       "placeholder.md"
 
 
