@@ -280,6 +280,21 @@ Webエンジニアを目指して奮闘中！楽しくて仕方がないこと�
 IT企業で働くママエンジニアです。女性の30代は半分が厄年といわれていますが、私の30代もずっと厄年でした。
 ようやくグランドフィナーレを迎えるので、これからは楽しく本を書いて、打ち上げで美味しいものを食べるぞ！
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/Fhe3QTCf_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        えびちき https://twitter.com/onishi\_feuer\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+Webサイト電脳世界 管理人。2級ファイナンシャル・プランニング技能士。
+イベント主催・運営、販売代理業、EC サイトでの輸出販売、輸入販売など多数の個人事業を経て、現在個人事業主としてWebマーケティング・Web制作を中心に活動中。
+
 == 表紙イラスト・デザイン　
 
 
