@@ -17,6 +17,7 @@
 #@# hoshimad_400x400.jpg    ほしまど
 #@# youchan_400x400.jpg     youchan
 #@# fan_400x400.png     ふぁん
+#@# sapi_kawahara.png     さっぴー川原
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -295,6 +296,21 @@ IT企業で働くママエンジニアです。女性の30代は半分が厄年�
 //}
 Webサイト電脳世界 管理人。2級ファイナンシャル・プランニング技能士。
 イベント主催・運営、販売代理業、EC サイトでの輸出販売、輸入販売など多数の個人事業を経て、現在個人事業主としてWebマーケティング・Web制作を中心に活動中。
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        さっぴー川原 @sapi\_kawahara\\ https://twitter.com/sapi\_kawahara\\
+                \end{minipage}
+    \hspace{1ex}
+//}
+相変わらずの放浪のITエンジニアしております！最近はRuby言語で開発しております！
+Twitterでも適当に絡んでください、よろしくおねがいします！
 
 == 表紙イラスト・デザイン　
 
