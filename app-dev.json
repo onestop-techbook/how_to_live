@@ -26,7 +26,7 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
 
-      "chp-intro.md",
+      "chap-intro.md",
       "chap-money.md",
       "chap-timeismoney.md",
       "chap-selectcompany.md",
