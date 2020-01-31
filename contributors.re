@@ -288,13 +288,8 @@ IT企業で働くママエンジニアです。女性の30代は半分が厄年�
         \includegraphics[width=.75\linewidth]{images/contributors/Fhe3QTCf_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-<<<<<<< HEAD
-        オーニシ https://twitter.com/@onishi_feuer\\
-        Webサイト：https://denno-sekai.com/
-=======
         オーニシ https://twitter.com/onishi\_feuer\\
         Webサイト： https://denno-sekai.com/
->>>>>>> 2a40d44d2067c32fc62763ce3782e70d4f93c7ed
         \end{minipage}
     \hspace{1ex}
 //}
