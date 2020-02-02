@@ -64,7 +64,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-BtoB向けSaaSのバックエンド開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回はフラッシュバックと付き合う方法について書いてみました。
+BtoB向けSaaSのバックエンド開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。
 
 　
 
