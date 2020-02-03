@@ -355,11 +355,11 @@ Webデザイナーとして入社し、そこでは素晴らしい上司に恵�
 1月1日〜12月31日の副業の所得の合計額が20万円以上になりそうなら、事前に諸々の準備を進めていく必要があります。
 
 
-![](images/chap-freelance/manga1.png
+![manga1](manga1)
 
-![](images/chap-freelance/manga2.png)
+![manga2](manga2)
 
-![](images/chap-freelance/zu.png)
+![zu](zu)
 
 ### 税理士を雇うか、確定申告ソフトで済ますか
 
