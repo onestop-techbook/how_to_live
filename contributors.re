@@ -312,6 +312,23 @@ Webサイト電脳世界 管理人。2級ファイナンシャル・プランニ
 相変わらずの放浪のITエンジニアしております！最近はRuby言語で開発しております！
 Twitterでも適当に絡んでください、よろしくおねがいします！
 
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/miriwo_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        miriwo(みりを) @mirimiripc https://twitter.com/mirimiripc
+        \end{minipage}
+    \hspace{1ex}
+//}
+2019年7月7日からQiitaを毎日投稿中！(2020年2月7日現在)
+Podcastも始めました！ハッシュタグ→#miri_radio
+Webエンジニアを目指して奮闘中！楽しくて仕方がないことをお仕事にしたい！
+
+
 == 表紙イラスト・デザイン　
 
 
