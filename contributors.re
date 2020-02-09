@@ -300,7 +300,7 @@ IT企業で働くママエンジニアです。女性の30代は半分が厄年�
 Webサイト電脳世界 管理人。2級ファイナンシャル・プランニング技能士。
 イベント主催・運営、販売代理業、EC サイトでの輸出販売、輸入販売など多数の個人事業を経て、現在個人事業主としてWebマーケティング・Web制作を中心に活動中。
 
-
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -315,7 +315,7 @@ Webサイト電脳世界 管理人。2級ファイナンシャル・プランニ
 相変わらずの放浪のITエンジニアしております！最近はRuby言語で開発しております！
 Twitterでも適当に絡んでください、よろしくおねがいします！
 
-
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -331,6 +331,8 @@ Twitterでも適当に絡んでください、よろしくおねがいします�
 Podcastも始めました！ハッシュタグ→#miri_radio
 Webエンジニアを目指して奮闘中！楽しくて仕方がないことをお仕事にしたい！
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -342,6 +344,22 @@ Webエンジニアを目指して奮闘中！楽しくて仕方がないこと�
     \hspace{1ex}
 //}
 ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア。個人開発でつくったお笑いライブの検索サービス「ワラリー！」を運営中。そろそろLTデビューしたい。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        KANE @higuyume https://twitter.com/higuyume\\
+        サークル名： growthfaction /
+        \end{minipage}
+    \hspace{1ex}
+//}
+人の力で世界を便利にする企業で働いているWebディレクター
+Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 
 
 == 表紙イラスト・デザイン　
@@ -359,20 +377,6 @@ ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア
     \hspace{1ex}
 //}
 フリーランスの章の執筆と、表紙イラストで参加させていただきました。会社を辞めてフリーランスになるかどうか1人で迷っていたときの苦悩が、今ここで役立ったか、と不思議な気持ちです。あなたの人生が素敵なものになりますように。
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        KANE @higuyume https://twitter.com/higuyume\\
-        サークル名： growthfaction /
-        \end{minipage}
-    \hspace{1ex}
-//}
-人の力で世界を便利にする企業で働いているWebディレクター
-Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 
 
 
