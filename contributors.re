@@ -345,6 +345,22 @@ Webエンジニアを目指して奮闘中！楽しくて仕方がないこと�
 //}
 フリーランスの章の執筆と、表紙イラストで参加させていただきました。会社を辞めてフリーランスになるかどうか1人で迷っていたときの苦悩が、今ここで役立ったか、と不思議な気持ちです。あなたの人生が素敵なものになりますように。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        KANE @higuyume https://twitter.com/higuyume\\
+        サークル名： growthfaction /
+        \end{minipage}
+    \hspace{1ex}
+//}
+人の力で世界を便利にする企業で働いているWebディレクター
+Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
+
+
+
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
