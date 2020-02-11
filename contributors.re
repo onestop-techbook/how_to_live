@@ -376,6 +376,19 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 
 
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nabekura.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なべくら https://twitter.com/nabe\_\_kurage\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+普段はフロントエンドエンジニアやってます。楽しそうなことには首を突っ込まずにはいられない性格。podcast作ったり、イラスト描いたり、写真撮ったり…物を作ってワクワクしながら生きていきたい！
+
+
 == 表紙イラスト・デザイン　
 
 
