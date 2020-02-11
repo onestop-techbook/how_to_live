@@ -375,6 +375,18 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 普段は、インフラエンジニア(クラウド・IaaS・セキュリティ)をしております。本書のPodcastにゲスト出演させていただいたりしています。最近は、筋トレ、ファンクショナルトレーニングにハマっています。目指せ筋トレエンジニア！
 
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/S_goodengineer7_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        S(エス) @goodengineer7 https://twitter.com/goodengineer7\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+団塊ジュニア世代49歳/フリーランスエンジニア7年目/Twitter経由で直請けフルリモートワーク/平日名古屋・週末は家族（妻と娘2人）とド田舎暮らし/Tech系ニュースPodcast配信中 http://bit.ly/TechFreePodcast
+
 
 == 表紙イラスト・デザイン　
 
