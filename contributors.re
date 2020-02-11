@@ -173,11 +173,12 @@ ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア
 人の力で世界を便利にする企業で働いているWebディレクター
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/komacchi.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/komacchi.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         こまっち https://twitter.com/komacchi\_u\\
@@ -186,6 +187,7 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 //}
 普段は、インフラエンジニア(クラウド・IaaS・セキュリティ)をしております。本書のPodcastにゲスト出演させていただいたりしています。最近は、筋トレ、ファンクショナルトレーニングにハマっています。目指せ筋トレエンジニア！
 
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
