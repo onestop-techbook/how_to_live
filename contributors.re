@@ -229,6 +229,21 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 //}
 セキュリティ寄りのインフラエンジニア。SE、専業主婦、会計事務所パートを経て雑学多め。日々何かと衝突。好奇心と向上心と遊びゴコロだけで生きてます。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        もっと @mottox2 https://twitter.com/mottox2\\
+        サークル名：つのぶえ出版
+        \end{minipage}
+    \hspace{1ex}
+//}
+フリーランスのフロントエンドエンジニア・デザイナー。ずっと引きこもっていましたが、数年ぶりに出社する仕事を始めました。
+
 == 表紙イラスト・デザイン　
 
 
