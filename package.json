@@ -7,6 +7,6 @@
   },
   "scripts": {
     "clean": "rm -rf .review",
-    "build": "easybooks app-dev.json"
+    "build": "easybooks how-to-live.json"
   }
 }
