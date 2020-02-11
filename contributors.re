@@ -201,6 +201,7 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 //}
 団塊ジュニア世代49歳/フリーランスエンジニア7年目/Twitter経由で直請けフルリモートワーク/平日名古屋・週末は家族（妻と娘2人）とド田舎暮らし/Tech系ニュースPodcast配信中 http://bit.ly/TechFreePodcast
 
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -214,6 +215,19 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 //}
 普段はフロントエンドエンジニアやってます。楽しそうなことには首を突っ込まずにはいられない性格。podcast作ったり、イラスト描いたり、写真撮ったり…物を作ってワクワクしながら生きていきたい！
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/katzemike.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        みけねこ（katzemike） https://twitter.com/katzemike1\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+セキュリティ寄りのインフラエンジニア。SE、専業主婦、会計事務所パートを経て雑学多め。日々何かと衝突。好奇心と向上心と遊びゴコロだけで生きてます。
 
 == 表紙イラスト・デザイン　
 
@@ -230,8 +244,6 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
     \hspace{1ex}
 //}
 フリーランスの章の執筆と、表紙イラストで参加させていただきました。会社を辞めてフリーランスになるかどうか1人で迷っていたときの苦悩が、今ここで役立ったか、と不思議な気持ちです。あなたの人生が素敵なものになりますように。
-
-
 
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
