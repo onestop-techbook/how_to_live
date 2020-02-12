@@ -93,4 +93,4 @@
 
 細かいことは、厚生労働省：自立支援医療についてのページ[^jiritsu]を見てみるとよいかもしれません。
 
-[^jiritsu]: 厚生労働省：自立支援医療　https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/jiritsu/index.html
+[^jiritsu]: 厚生労働省：自立支援医療　https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/　shougaishahukushi/jiritsu/index.html
