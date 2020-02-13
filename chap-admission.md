@@ -89,7 +89,7 @@ https://www.jasso.go.jp/shogakukin/kyufu/index.html
 
 大学への進学率は50％前後[^50%]と言われています。人と同じルート、というと残念感はありますが、先人が踏み固めたルートであるとも言えます。未踏のルートの開拓はやりがいはあるでしょうが、やはり大変です。
 
-[^50%]: 大学院の現状を示す基本的なデータ https://www.mext.go.jp/component/b_menu/shingi/giji/__icsFiles/afieldfile/2017/07/24/1386653_05.pdf
+[^50%]: 大学院の現状を示す基本的なデータ https://www.mext.go.jp/component/b_menu/shingi/giji/__icsFiles/　afieldfile/2017/07/24/1386653_05.pdf
 
 ## 修士課程はデフォルトルートではない
 
