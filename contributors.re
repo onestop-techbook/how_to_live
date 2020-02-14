@@ -261,6 +261,22 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 あと、近畿青年技術士懇親会 http://seigikon.jp\\ って勉強会の幹事をさせていただいています。
 資格は10種以上もってますね。色々あったんですよ…　いやほんと。
 
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/akazunoma.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        akazunoma @akazunoma https://twitter.com/akazunoma\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+Macbookにカルピスをこぼした挙げ句、会社を休職してバンコクに逃げたWebディレクター。今泣きながらこの本を書いています。
+Podcastにんげんがへたエフエム(http://ningengaheta.me/）大絶賛全世界にて配信中。
+
 == 表紙イラスト・デザイン　
 
 
