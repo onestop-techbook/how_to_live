@@ -76,9 +76,9 @@ tarで固めたpdfがダウンロードできます。
 https://qiita.com/implicit_none/items/398c6e0bbedc8b160621
 暗黙の型宣言さんが詳しく書いてくれてます。あるいは、技術同人誌を書こう‐アウトプットのススメ‐をご覧ください。
 
-Windows10(Home/Pro問わず)であれば、WSL＋docker越しにRe:VIWEを扱う方法もあります。
+Windows10(Home/Pro問わず)であれば、WSL＋docker越しにRe:VIWEを扱う方法もあります。https://qiita.com/hoshimado/items/7592cee28c1bde545b78
 
-※2019/11/04時点で、次の環境にて後述のdockerコマンドからコンパイル出来ることを確認済み。https://qiita.com/hoshimado/items/7592cee28c1bde545b78
+※2019/11/04時点で、次の環境にて後述のdockerコマンドからコンパイル出来ることを確認済み。
 
 <!-- (3.1指定は、2.x環境と共存のため) -->
 
