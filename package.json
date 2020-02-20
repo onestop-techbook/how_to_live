@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "easybooks": "0.1.25"
+    "easybooks": "0.1.27"
   },
   "scripts": {
     "clean": "rm -rf .review",
-    "build": "easybooks app-dev.json"
+    "build": "easybooks how-to-live.json"
   }
 }

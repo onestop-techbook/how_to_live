@@ -1,21 +1,8 @@
 = 著者紹介
 
 #@# dowonloaded jpg files used as icons
-#@# 1f6wNFTw_400x400.jpg    暗黙の型宣言
-#@# 47l90qIj_400x400.jpg    えるきち
-#@# 5eJbCw7L_400x400.jpg    もふもふ
-#@# F-f1SUHd_400x400.jpg    せとあず♂
-#@# i-kZmS-f_400x400.jpg    親方
-#@# mIiEPqG9_400x400.jpg    病葉
-#@# mUB3SJSi_400x400.jpg    Yuki Ichonomiya
-#@# NqlbbcCl_400x400.jpg    カウプラン機間極東支部
-#@# llminatoll_400x400.jpg    湊川あい
-#@# wQsdxU4b_400x400.jpg    なかひこくん
-#@# KJuhmDlA_400x400.png    ariaki
-#@# __aizack_400x400.jpg    Aizack
-#@# Fhe3QTCf_400x400.jpg    オーニシ
-#@# hoshimad_400x400.jpg    ほしまど
-#@# youchan_400x400.jpg     youchan
+
+
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -62,163 +49,9 @@
         \end{minipage}
     \hspace{1ex}
 //}
-BtoB向けSaaSのバックエンド開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回は自分の中のアジャイルに対する考えかたをアウトプットしてみました。
+BtoB向けSaaSのバックエンド開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。
 
 　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/nilfigo_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        nilfigo @nilfigo https://twitter.com/nilfigo\\
-        \end{minipage}
-    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
-//}
-セキュリティエンジニアです。セキュリティ系コミュニティ「脆弱性診断研究会」で毎月ハンズオンセミナーを開催してます。同人誌活動は技術書典5から。
-趣味でドラム叩いてます。所属のバンドはJ-POP系でギターやキーボードを絶賛募集中！
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/konosumi_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        @konosumi https://twitter.com/konosumi\\
-        ブログ： https://www.konosumi.net/
-        \end{minipage}
-    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
-//}
-技術書典4から同人誌を執筆しているITエンジニアです。
-直近では、「ゲームセンターを楽しむ技術」というゲームセンター同人誌を共著で執筆しました。
-好きな怒首領蜂は大往生ブラックレーベルです。
-
-　
-
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/etDVh3D9_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        雛形 https://twitter.com/hinahypersonica\\
-        \end{minipage}
-    \hspace{1ex}
-//}
-研究者。普段は本とゲームを語ります。好きな怒首領蜂大往生ブラックレーベルの自機はTypeBショット強化です。
-
-　
-
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/MzRyuKa_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        みずりゅ @MzRyuKa https://twitter.com/mzryuka\\
-        \end{minipage}
-    \hspace{1ex}
-//}
-のんびりごろごろ、ネコ、うさまる、技術の話は大好きです。SIerですがアジャイルな開発も経験していたりします。
-最近は思うところもあり、色々と活動中。最近のお気に入り言語はGo言語とElixirです。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/akki_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        あっきー @papi\_tokei https://twitter.com/papi\_tokei\\
-        \end{minipage}
-    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
-//}
-京都で働いているIoTエンジニアです。
-クラウド、フロントエンド、デバイス、、、いろいろな要素と戦いながら、四苦八苦の毎日。
-リーサルウェポンという肩書を夢見て、日々奮闘中！
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/tomoaki_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        @tomoaki\_teshima https://twitter.com/tomoaki\_teshima\\
-        サークル名: コサイン探偵
-        \end{minipage}
-    \hspace{1ex}
-//}
-Armおじさん。OpenCVのcontributor。CV勉強会@関東幹事の一人。
-執筆やOSSのデバッグはもっぱら電車の中で行います。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/hoshimad_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        ほしまど @hoshimado7 https://twitter.com/hoshimado7\\
-        サークル名：Fluorite
-        \end{minipage}
-    \hspace{1ex}
-//}
-仕事はたぶんIT関連。でも仕事じゃコーディングしてない。
-Node.jsの手軽さが好きな、日曜プログラマー。「こんなツールがあったら便利だな。無いの？なら作ろう」で気づいたらアプリ開発に足を踏み入れてた。そんな日常の延長としてのアプリ開発も、何かの参考になれば嬉しいです。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/mogya_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        もぎゃ @mogya https://twitter.com/mogya\\
-        \end{minipage}
-    \hspace{1ex}
-//}
-おひるねのできるエンジニア。街の電源検索サイト モバイラーズオアシス の他、電子書籍の情報サイトを準備中
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/endohizumi_400x400.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        遠藤ヒズミ https://twitter.com/endo\_hizumi\\
-        \end{minipage}
-    \hspace{1ex}
-//}
-都内でPython書いてるSESのWebコーダー。プラモやWebアプリを作ったり、折りたたみタブレットやキーボードつきデバイスを収集する変態ガジェットスキー。手捕り30万欲しい！
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/tronperidot_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        kaneko @tronperidot https://twitter.com/tronperidot\\
-        \end{minipage}
-    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
-//}
-フロントエンドメインのエンジニア。前職SIer時代のPM経験を生かしてwebディレクターや秘書の副業を行ってたりもしてます。
-
-　
-
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -238,6 +71,67 @@ Node.jsの手軽さが好きな、日曜プログラマー。「こんなツー�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/fan_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ふぁん @fan\_tech\_ https://twitter.com/fan\_tech\_
+                \end{minipage}
+    \hspace{1ex}
+//}
+プログラミングを始めて1か月の初心者がまさかの技術同人誌デビューをするとは思いませんでした。
+世の中何があるかわかりませんね…！修行して何かのエンジニアになってみたいなーと思ってます！がんばる！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ebichiki_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        えびちき https://twitter.com/ebichiki\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+IT企業で働くママエンジニアです。女性の30代は半分が厄年といわれていますが、私の30代もずっと厄年でした。
+ようやくグランドフィナーレを迎えるので、これからは楽しく本を書いて、打ち上げで美味しいものを食べるぞ！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/Fhe3QTCf_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        オーニシ https://twitter.com/onishi\_feuer\\
+        Webサイト： https://denno-sekai.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+Webサイト電脳世界 管理人。2級ファイナンシャル・プランニング技能士。
+イベント主催・運営、販売代理業、EC サイトでの輸出販売、輸入販売など多数の個人事業を経て、現在個人事業主としてWebマーケティング・Web制作を中心に活動中。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        さっぴー川原 @sapi\_kawahara\\ https://twitter.com/sapi\_kawahara\\
+                \end{minipage}
+    \hspace{1ex}
+//}
+相変わらずの放浪のITエンジニアしております！最近はRuby言語で開発しております！
+Twitterでも適当に絡んでください、よろしくおねがいします！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/miriwo_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
@@ -245,9 +139,158 @@ Node.jsの手軽さが好きな、日曜プログラマー。「こんなツー�
         \end{minipage}
     \hspace{1ex}
 //}
-初めての技術同人誌を書かせていただきました。
-2019年7月7日からQiitaを毎日投稿中！(2019年12月1日現在)
+2019年7月7日からQiitaを毎日投稿中！(2020年2月7日現在)
+Podcastも始めました！ハッシュタグ→#miri_radio
 Webエンジニアを目指して奮闘中！楽しくて仕方がないことをお仕事にしたい！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/rubys8arks_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        かしい @rubys8arks https://twitter.com/rubys8arks\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア。個人開発でつくったお笑いライブの検索サービス「ワラリー！」を運営中。そろそろLTデビューしたい。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        KANE @higuyume https://twitter.com/higuyume\\
+        サークル名： growthfaction /
+        \end{minipage}
+    \hspace{1ex}
+//}
+人の力で世界を便利にする企業で働いているWebディレクター
+Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/komacchi.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        こまっち https://twitter.com/komacchi\_u\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+普段は、インフラエンジニア(クラウド・IaaS・セキュリティ)をしております。本書のPodcastにゲスト出演させていただいたりしています。最近は、筋トレ、ファンクショナルトレーニングにハマっています。目指せ筋トレエンジニア！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/S_goodengineer7_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        S(エス) @goodengineer7 https://twitter.com/goodengineer7\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+団塊ジュニア世代49歳/フリーランスエンジニア7年目/Twitter経由で直請けフルリモートワーク/平日名古屋・週末は家族（妻と娘2人）とド田舎暮らし/Tech系ニュースPodcast配信中 http://bit.ly/TechFreePodcast
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nabekura.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なべくら https://twitter.com/nabe\_\_kurage\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+普段はフロントエンドエンジニアやってます。楽しそうなことには首を突っ込まずにはいられない性格。podcast作ったり、イラスト描いたり、写真撮ったり…物を作ってワクワクしながら生きていきたい！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/katzemike.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        みけねこ（katzemike） https://twitter.com/katzemike1\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+セキュリティ寄りのインフラエンジニア。SE、専業主婦、会計事務所パートを経て雑学多め。日々何かと衝突。好奇心と向上心と遊びゴコロだけで生きてます。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        もっと @mottox2 https://twitter.com/mottox2\\
+        サークル名：つのぶえ出版
+        \end{minipage}
+    \hspace{1ex}
+//}
+フリーランスのフロントエンドエンジニア・UIデザイナー。ずっと引きこもっていましたが、数年ぶりに出社する仕事を始めました。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ditflame_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ふーれむ @ditflame https://twitter.com/ditflame\\
+        Qiitaでちょこちょこ技術ネタ書いたりしてます。 https://qiita.com/ditflame\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+大阪在住。前職はSIerでしたが３年前に飽きて今はよくわからない仕事(敢えていうなら社内SEですね…)になりました。
+あと、近畿青年技術士懇親会 http://seigikon.jp\\ って勉強会の幹事をさせていただいています。
+資格は10種以上もってますね。色々あったんですよ…　いやほんと。
+
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/akazunoma.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        akazunoma @akazunoma https://twitter.com/akazunoma\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+Macbookにカルピスをこぼした挙げ句、会社を休職してバンコクに逃げたWebディレクター。今泣きながらこの本を書いています。
+Podcastにんげんがへたエフエム(http://ningengaheta.me/）大絶賛全世界にて配信中。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+       akrolayer @akrolayer https://twitter.com/akrolayer\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+メーカ子会社でWindowsアプリ作ってる人。最近はnoteに考えていることを書いてます。podcastもやってたりする。
+趣味はゲーム全般。
 
 == 表紙イラスト・デザイン　
 
@@ -263,8 +306,7 @@ Webエンジニアを目指して奮闘中！楽しくて仕方がないこと�
         \end{minipage}
     \hspace{1ex}
 //}
-前回に引き続き、表紙イラストで参加させていただきました。親方さんアイデアの「スリッパを持ってバグを追い回すワンストップちゃん」を描くのが楽しかったです！
-
+フリーランスの章の執筆と、表紙イラストで参加させていただきました。会社を辞めてフリーランスになるかどうか1人で迷っていたときの苦悩が、今ここで役立ったか、と不思議な気持ちです。あなたの人生が素敵なものになりますように。
 
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 

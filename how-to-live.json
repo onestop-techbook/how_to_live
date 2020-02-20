@@ -8,7 +8,7 @@
   "colophon": true,
   "history": [["2020-2-29 技術書典8"]],
   "prt": "K-9（ケーナイン）",
-  "pbl": "親方Project",
+  "pbl": "親方Project　oyakata2438@gmail.com",
   "edt": "親方Project",
   "date": "2020-02-29",
   "secnolevel": 3,
@@ -25,13 +25,39 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-     
+
+      "chap-intro.md",
       "chap-money.md",
       "chap-timeismoney.md",
+      "chap-insurance.md",
+      "chap-scam.md",
+      "chap-working.md",
       "chap-selectcompany.md",
+      "chap-freelance.md",
+      "chap-jobchange.md",
+      "company_add.md",
+      "chap-meanOfLife.md",
+      "chap-pleaseNoticeSOS.md",
+      "chap-disabilityPension.md",
+      "chap-highschool.md",
+      "chap-admission.md",
+      "chap-qualification.md",
+      "chap-distanceLearningUniversity.md",
+      "chap-health.md",
+      "chap-mind.md",
+      "chap-buildMind.md",
+      "chap-giveup.md",
+      "chap-willcanmust.md",
+      "chap-home.md",
+      "chap-rubys8arks.md",
+      "chap-rubys8arks-failure.md",
+      "chap-journey.md",
+      "chap-family.md",
+      "chap-hobby.md",
+      "chap-friend.md",
       "placeholder.md"
 
-     
+
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
