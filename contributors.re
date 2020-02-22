@@ -277,10 +277,12 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 Macbookにカルピスをこぼした挙げ句、会社を休職してバンコクに逃げたWebディレクター。今泣きながらこの本を書いています。
 Podcastにんげんがへたエフエム(http://ningengaheta.me/）大絶賛全世界にて配信中。
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/gomana2.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/gomana2_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
        akrolayer @akrolayer https://twitter.com/akrolayer\\
@@ -289,7 +291,7 @@ Podcastにんげんがへたエフエム(http://ningengaheta.me/）大絶賛全�
 //}
 
 メーカ子会社でWindowsアプリ作ってる人。最近はnoteに考えていることを書いてます。podcastもやってたりする。
-趣味はゲーム全般。
+趣味はゲーム全般。キーボード入力最適化に燃えてます。
 
 == 表紙イラスト・デザイン　
 
