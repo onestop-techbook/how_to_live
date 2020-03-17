@@ -135,13 +135,13 @@ Twitterでも適当に絡んでください、よろしくおねがいします�
         \includegraphics[width=.75\linewidth]{images/contributors/miriwo_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        miriwo(みりを) @mirimiripc https://twitter.com/mirimiripc
+        大川 峻(元 miriwo) @mirimiripc https://twitter.com/mirimiripc
         \end{minipage}
     \hspace{1ex}
 //}
 2019年7月7日からQiitaを毎日投稿中！(2020年2月7日現在)
 Podcastも始めました！ハッシュタグ→#miri_radio
-Webエンジニアを目指して奮闘中！楽しくて仕方がないことをお仕事にしたい！
+転職が完了し2020/3/9よりWeb系の受託企業さんでお仕事を開始しました！
 
 　
 
