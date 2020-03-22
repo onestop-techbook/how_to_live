@@ -293,6 +293,23 @@ Podcastにんげんがへたエフエム(http://ningengaheta.me/）大絶賛全�
 メーカ子会社でWindowsアプリ作ってる人。最近はnoteに考えていることを書いてます。podcastもやってたりする。
 趣味はゲーム全般。キーボード入力最適化に燃えてます。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/MzRyuKa_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+       みずりゅ @MzRyuKa https://twitter.com/MzRyuKa\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+のんびりごろごろ、ネコ、うさまる、技術の話は大好きです。SIerですがアジャイルな開発も経験していたりします。
+最近のお気に入り言語はGo言語とElixirです。Elixirについての技術同人誌を書いています。
+この本で書いた通り、直近でこどもが生まれて育休を取得します。
+
 == 表紙イラスト・デザイン　
 
 
